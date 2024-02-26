@@ -42,45 +42,12 @@ me.welcome();
 - 📐 Strong understanding of web accessibility and best coding practices.
 - 🌐 A passion for staying up-to-date with the latest web technologies.
 - 💬 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/khush-chaurasia-71b0a4214/).
-<hr>
-
-## ⚡ Technologies I Know <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> ⚡
-<p align="center">
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/> 
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" width="50" height="50"/>
- &nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50"/>
-  &nbsp;
-</p>
-</br>  
-<hr>
+<hr> 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   
   <em><b>I love connecting with different people</b> so if you want to connect <b> I'll be happy to connect with you all on  [LinkedIn](https://www.linkedin.com/in/khush-chaurasia-71b0a4214/) || [Github](https://github.com/Khush0031).</b> 😊</em>
-    
 </p> 
-
-</br>  
 
 
 
