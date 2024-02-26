@@ -73,14 +73,6 @@ me.welcome();
 </p>
 </br>  
 <hr>
-
-## 📊 GitHub Stats:
-<div float="left">
-<a><img src="https://github-readme-streak-stats.herokuapp.com/?user=Khush0031&layout=compact&theme=highcontrast&custom_title=streak-stats-ty&hide_border=true&layout=compact"  width="38%" align="center" /></a>
-<a><img src="https://github-readme-stats.vercel.app/api?username=Khush0031&theme=highcontrast&layout=compact&hide_border=true" align="center" width="28%"></a>
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khush0031&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" align="center" width="28%"></a>
-</div><br />
-<hr>
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   
