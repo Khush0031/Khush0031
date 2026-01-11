@@ -1,26 +1,25 @@
 # Hey 👋, I'm [Khush Chaurasia](https://github.com/Khush0031) 👨‍💻 
 </br>  
 
-**`I'm a Computer Science Enthusiast  👨‍💻, Currently learning FullStack MERN Tecnology.🚀`**  
+**`I'm a Computer Science Graduate  👨‍💻, Currently learning FullStack MERN Tecnology.🚀`**  
 
 
-![age](https://img.shields.io/badge/Age-24-blue)
-![focus](https://img.shields.io/badge/Focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/Living-Varanasi-3c9)
+![age](https://img.shields.io/badge/Age-26-blue)
+![focus](https://img.shields.io/badge/Focus-SoftwareDeveloper-brightgreen)
 <a href="https://img.shields.io/github/followers/Khush0031.svg?style=social&label=Follow&maxAge=2592000"><img alt="Follows" src="https://img.shields.io/github/followers/Khush0031.svg?style=social&label=Followers">
 </br>  
 
 <div style="display: flex; flex-direction: row-reverse; align-items:center; justify-conten: center;">
 
- <img align="right" width="200" height="310" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
+ <img align="right" width="200" height="600" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="Coding">
 
-```js
-class FrontEndDeveloper {
-    constructor() {
+```c++
+class SoftwareDeveloper {
+    SoftwareDeveloper() {
         this.name = "Khush Chaurasia";
-        this.age = 24;
-        this.role = "Web developer";
-        this.language_spoken = ["en", "hin"];
+        this.age = 26;
+        this.role = "Software Developer";
+        this.language_spoken = ["English", "Hindi"];
     }
 
     welcome() {
@@ -28,21 +27,10 @@ class FrontEndDeveloper {
     }
 }
 
-const me = new FrontEndDeveloper();
+const me = new SoftwareDeveloper();
 me.welcome();
 ```
 </div>  
-<hr>
-
-## 🌟 **What I Bring to the Table:**  
-
-- 💻 Proficient in HTML, CSS, and JavaScript.
-- 🎨 A keen eye for design and a knack for creating pixel-perfect layouts.
-- 🛠️ Experience with responsive web design and cross-browser compatibility.
-- 📐 Strong understanding of web accessibility and best coding practices.
-- 🌐 A passion for staying up-to-date with the latest web technologies.
-- 💬 Feel free to reach out to me through my [LinkedIn](https://www.linkedin.com/in/khush-chaurasia-71b0a4214/).
-<hr> 
 <p align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   
